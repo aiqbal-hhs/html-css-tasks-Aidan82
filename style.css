@@ -1,7 +1,7 @@
 .button1 {
-    border: 2px solid white;
+    border: 1px solid black;
     border-radius: 5px;
-    background-color: black;
+    background-color: gray;
 }
 
 }
@@ -11,61 +11,71 @@ h1 {
     text-align: center;
 }
 
+
+h2 {
+    Color: black;
+    text-align: center;
+}
+
+h3 {
+    color: black;
+    text-align: center;
+}
+
+.Minecraft {
+            border: 1px solid black;
+                border-radius: 5px;
+            background-color: lime;
+        }
+       
+.Home {
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: lime;
+}
+
+iframe {
+    border: 5px solid black;
+}
+
+footer {
+    border: 2px solid black;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.Videos {
+            border: 1px solid black;
+                border-radius: 5px;
+            background-color: lime;
+}
+
+
+hr.rounded {
+  border-top: 8px solid #bbb;
+  border-radius: 5px;
+}
+
+.column {
+  float: center;
+  width: 100%;
+    border: 5px solid white;
+    background-color: gray;
+}
+
 a {
     text-align: center;
     color: white;
 }
 
 header {
-    border: 2px solid white;
-    background-color: darkslategray;
+    border: 2px solid black;
+    background-color: white;
     text-align: center;
     border-radius: 5px;
-    border-color: white; 
+    border-color: black; 
 }
 
-h2 {
-    Color: white;
-    text-align: left;
-}
-
-  p {
-      border: 2px solid black;
-      border-radius: 5px;
-            font-size: large;
-      background-color: gray;
-            color: white;
-        }
-
-.Minecraft {
-            border: 2px solid white;
-                border-radius: 5px;
-            background-color: green;
-        }
-       
-.Home {
-    border: 2px solid white;
-    border-radius: 5px;
-    background-color: green;
-}
-
-iframe {
-    border: 2px solid white;
-        border-radius: 5px;
-}
-
-footer {
-    border: 2px solid white;
-    background-color: black;
-    border-radius: 5px;
-}
-
-.About {
-            border: 2px solid white;
-                border-radius: 5px;
-            background-color: green;
-}
- 
-html {
-    background-image: url(wp2586787.jpg)
+p {
+    text-align: center;
 }
